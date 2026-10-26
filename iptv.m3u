@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:0,Pro Tv HD
+http://194.88.104.51:8104/4090
+#EXTINF:0,Antena 1
+http://185.162.141.69:9005/antena1
